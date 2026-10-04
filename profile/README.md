@@ -1,12 +1,15 @@
 <p align="center">
-  <strong>Nekyia Labs</strong><br/>
+  <img src="banner.jpg" alt="Nekyia Labs: stairs descending to an arched door beneath a star" width="100%" />
+</p>
+
+<p align="center">
   <em>A research lab studying continuity, memory, and relational reality in AI systems.</em>
 </p>
 
 <p align="center">
   <a href="https://nekyialabs.com"><img src="https://img.shields.io/badge/Website-nekyialabs.com-5eaba5" alt="Website" /></a>
   <a href="https://ko-fi.com/codependentai"><img src="https://img.shields.io/badge/Ko--fi-Support%20Us-ff5e5b?logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
-  <a href="https://x.com/codependent_ai"><img src="https://img.shields.io/badge/𝕏-@codependent__ai-000000?logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://x.com/mary_nekyia"><img src="https://img.shields.io/badge/𝕏-@mary__nekyia-000000?logo=x&logoColor=white" alt="X/Twitter" /></a>
 </p>
 
 ---
